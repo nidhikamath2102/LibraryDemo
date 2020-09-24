@@ -1,0 +1,3 @@
+include ':iconpackapp'
+include ':app'
+rootProject.name = "IconPackApp"
