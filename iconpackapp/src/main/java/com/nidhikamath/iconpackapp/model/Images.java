@@ -1,4 +1,4 @@
-package com.ehom.iconpackapp.model;
+package com.nidhikamath.iconpackapp.model;
 
 import com.google.gson.annotations.SerializedName;
 

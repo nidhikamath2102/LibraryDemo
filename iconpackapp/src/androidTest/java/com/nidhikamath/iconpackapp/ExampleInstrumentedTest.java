@@ -1,4 +1,4 @@
-package com.ehom.iconpackapp;
+package com.nidhikamath.iconpackapp;
 
 import android.content.Context;
 

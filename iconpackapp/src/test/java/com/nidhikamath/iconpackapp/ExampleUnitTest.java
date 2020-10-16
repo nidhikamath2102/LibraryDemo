@@ -1,4 +1,4 @@
-package com.ehom.iconpackapp;
+package com.nidhikamath.iconpackapp;
 
 import org.junit.Test;
 
