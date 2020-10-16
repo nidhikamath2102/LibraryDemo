@@ -1,0 +1,6 @@
+<resources>
+    <item name="APPWIDGET_HOST_ID" type="id" />
+    <item name="REQUEST_PICK_APPWIDGET" type="id" />
+    <item name="REQUEST_PICK_SHORTCUT" type="id" />
+    <item name="REQUEST_PICK_THEME" type="id" />
+</resources>
